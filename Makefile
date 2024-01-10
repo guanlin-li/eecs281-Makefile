@@ -20,13 +20,7 @@
 #######################
 # TODO (begin) #
 #######################
-# Change 'youruniqname' to match your UM uniqname (no quote marks).
-UNIQNAME    = youruniqname
-
-# Change the right hand side of the identifier to match the project identifier
-# given in the project or lab specification.
-IDENTIFIER  = EEC50281EEC50281EEC50281EEC50281EEC50281
-
+include MakefileConf
 # Change 'executable' to match the command name given in the project spec.
 EXECUTABLE  = executable
 
